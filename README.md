@@ -60,7 +60,7 @@ We would like to express our gratitude to the researchers behind the MiniGPT-4 a
 
 ## Publications
 
-Please take a look at our paper related to SafeStreetCrossing:
+Please take a look at our previous paper related to SafeStreetCrossing:
 
 ```bibtex
 @article{hwang2024safe,
