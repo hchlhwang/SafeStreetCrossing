@@ -1,0 +1,5 @@
+datasets:
+  cc_sbu_align:
+    data_type: images
+    build_info:
+      storage: /work/pi_donghyunkim_umass_edu/hochul/emnlp/kthk/MiniGPT-4/minigpt4/configs/datasets/cc_sbu_align/

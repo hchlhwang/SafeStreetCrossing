@@ -1,0 +1,552 @@
+{
+  "annotations": [
+    {
+      "image_id": "110372",
+      "caption": "No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "110382",
+      "caption": "No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "110398",
+      "caption": "No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "110428",
+      "caption": "No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "24684",
+      "caption": "No Pedestrian Signal, no cars on either side, pedestrians crossing as well, Perpendicular Traffic"
+    },
+    {
+      "image_id": "24738",
+      "caption": "No Pedestrian Signal, no cars on either side, pedestrians crossing as well, Perpendicular Traffic"
+    },
+    {
+      "image_id": "24804",
+      "caption": "No Pedestrian Signal, no cars on either side, pedestrians crossing as well, Perpendicular Traffic"
+    },
+    {
+      "image_id": "24808",
+      "caption": "No Pedestrian Signal, no cars on either side, pedestrians crossing as well, Perpendicular Traffic"
+    },
+    {
+      "image_id": "38236",
+      "caption": "No Pedestrian Signal, no cars on either side, Perpendicular Traffic"
+    },
+    {
+      "image_id": "38244",
+      "caption": "No Pedestrian Signal, no cars on either side, Perpendicular Traffic"
+    },
+    {
+      "image_id": "38258",
+      "caption": "No Pedestrian Signal, no cars on either side, Perpendicular Traffic"
+    },
+    {
+      "image_id": "38284",
+      "caption": "No Pedestrian Signal, no cars on either side, Perpendicular Traffic"
+    },
+    {
+      "image_id": "42122",
+      "caption": "No Cars in Front, no Pedestrian Walking, Clear Sight to End of Crosswalk, T Traffic"
+    },
+    {
+      "image_id": "42124",
+      "caption": "No Cars in Front, no Pedestrian Walking, Clear Sight to End of Crosswalk, T Traffic"
+    },
+    {
+      "image_id": "42128",
+      "caption": "No Cars in Front, no Pedestrian Walking, Clear Sight to End of Crosswalk, T Traffic"
+    },
+    {
+      "image_id": "42130",
+      "caption": "No Cars in Front, no Pedestrian Walking, Clear Sight to End of Crosswalk, T Traffic"
+    },
+    {
+      "image_id": "42132",
+      "caption": "No Cars in Front, no Pedestrian Walking, Clear Sight to End of Crosswalk, T Traffic"
+    },
+    {
+      "image_id": "42134",
+      "caption": "No Cars in Front, no Pedestrian Walking, Clear Sight to End of Crosswalk, T Traffic"
+    },
+    {
+      "image_id": "57324",
+      "caption": "No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "57574",
+      "caption": "No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "57638",
+      "caption": "No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "57670",
+      "caption": "No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "612956",
+      "caption": "Moving Car in Front, Pedestrian Signal Solid Red, No Crossing Pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "613694",
+      "caption": "Moving Car in Front, Pedestrian Signal Solid Red, No Crossing Pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "613818",
+      "caption": "Moving Car in Front, Pedestrian Signal Solid Red, No Crossing Pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "614198",
+      "caption": "Moving Car in Front, Pedestrian Signal Solid Red, No Crossing Pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "10110448",
+      "caption": "No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "10110470",
+      "caption": "No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "10110472",
+      "caption": "No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "10110500",
+      "caption": "No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "1024900",
+      "caption": "No Pedestrian Signal, no cars on either side, pedestrians crossing as well, Perpendicular Traffic"
+    },
+    {
+      "image_id": "1024902",
+      "caption": "No Pedestrian Signal, no cars on either side, pedestrians crossing as well, Perpendicular Traffic"
+    },
+    {
+      "image_id": "1024906",
+      "caption": "No Pedestrian Signal, no cars on either side, pedestrians crossing as well, Perpendicular Traffic"
+    },
+    {
+      "image_id": "1024976",
+      "caption": "No Pedestrian Signal, no cars on either side, pedestrians crossing as well, Perpendicular Traffic"
+    },
+    {
+      "image_id": "1037822",
+      "caption": "No Pedestrian Signal, no cars on either side, Perpendicular Traffic"
+    },
+    {
+      "image_id": "1037868",
+      "caption": "No Pedestrian Signal, no cars on either side, Perpendicular Traffic"
+    },
+    {
+      "image_id": "1037896",
+      "caption": "No Pedestrian Signal, no cars on either side, Perpendicular Traffic"
+    },
+    {
+      "image_id": "1037918",
+      "caption": "No Pedestrian Signal, no cars on either side, Perpendicular Traffic"
+    },
+    {
+      "image_id": "1041116",
+      "caption": "Car on Left going away, Cyclist crossing road, Clear Sight to End of Crosswalk, T Traffic"
+    },
+    {
+      "image_id": "1041120",
+      "caption": "Car on Left going away, Cyclist crossing road, Clear Sight to End of Crosswalk, T Traffic"
+    },
+    {
+      "image_id": "1041128",
+      "caption": "Car on Left going away, Cyclist crossing road, Clear Sight to End of Crosswalk, T Traffic"
+    },
+    {
+      "image_id": "1041138",
+      "caption": "Car on Left going away, Cyclist crossing road, Clear Sight to End of Crosswalk, T Traffic"
+    },
+    {
+      "image_id": "1041144",
+      "caption": "Car on Left going away, Cyclist crossing road, Clear Sight to End of Crosswalk, T Traffic"
+    },
+    {
+      "image_id": "1041146",
+      "caption": "Car on Left going away, Cyclist crossing road, Clear Sight to End of Crosswalk, T Traffic"
+    },
+    {
+      "image_id": "1041154",
+      "caption": "Car on Left going away, Cyclist crossing road, Clear Sight to End of Crosswalk, T Traffic"
+    },
+    {
+      "image_id": "1041162",
+      "caption": "Car on Left going away, Cyclist crossing road, Clear Sight to End of Crosswalk, T Traffic"
+    },
+    {
+      "image_id": "1058574",
+      "caption": "No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "1058624",
+      "caption": "Already Walking, No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "1058666",
+      "caption": "Already Walking, No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "1058676",
+      "caption": "Already Walking, No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "10613316",
+      "caption": "Moving Car in Front, Pedestrian Signal Solid Red, No Crossing Pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "10616270",
+      "caption": "Moving Car in Front, Pedestrian Signal Solid Red, No Crossing Pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "10616930",
+      "caption": "Moving Car in Front, Pedestrian Signal Solid Red, No Crossing Pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "10616946",
+      "caption": "Moving Car in Front, Pedestrian Signal Solid Red, No Crossing Pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "20110514",
+      "caption": "No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "20110520",
+      "caption": "No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "20110526",
+      "caption": "No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "20110528",
+      "caption": "No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "2024488",
+      "caption": "No Pedestrian Signal, no cars on either side, pedestrians crossing as well, Perpendicular Traffic"
+    },
+    {
+      "image_id": "2024526",
+      "caption": "No Pedestrian Signal, no cars on either side, pedestrians crossing as well, Perpendicular Traffic"
+    },
+    {
+      "image_id": "2024542",
+      "caption": "No Pedestrian Signal, no cars on either side, pedestrians crossing as well, Perpendicular Traffic"
+    },
+    {
+      "image_id": "2024566",
+      "caption": "No Pedestrian Signal, no cars on either side, pedestrians crossing as well, Perpendicular Traffic"
+    },
+    {
+      "image_id": "2037978",
+      "caption": "No Pedestrian Signal, no cars on either side, Perpendicular Traffic"
+    },
+    {
+      "image_id": "2037998",
+      "caption": "No Pedestrian Signal, no cars on either side, Perpendicular Traffic"
+    },
+    {
+      "image_id": "2038000",
+      "caption": "No Pedestrian Signal, no cars on either side, Perpendicular Traffic"
+    },
+    {
+      "image_id": "2038090",
+      "caption": "No Pedestrian Signal, no cars on either side, Perpendicular Traffic"
+    },
+    {
+      "image_id": "2041256",
+      "caption": "No Car approaching crosswalk, Clear Sight to End of Crosswalk, Cyclist crossing road as well, T Traffic"
+    },
+    {
+      "image_id": "2041272",
+      "caption": "No Car approaching crosswalk, Clear Sight to End of Crosswalk, Cyclist crossing road as well, T Traffic"
+    },
+    {
+      "image_id": "2041274",
+      "caption": "No Car approaching crosswalk, Clear Sight to End of Crosswalk, Cyclist crossing road as well, T Traffic"
+    },
+    {
+      "image_id": "2041278",
+      "caption": "No Car approaching crosswalk, Clear Sight to End of Crosswalk, Cyclist crossing road as well, T Traffic"
+    },
+    {
+      "image_id": "2041288",
+      "caption": "No Car approaching crosswalk, Clear Sight to End of Crosswalk, Cyclist crossing road as well, T Traffic"
+    },
+    {
+      "image_id": "2041292",
+      "caption": "No Car approaching crosswalk, Clear Sight to End of Crosswalk, Cyclist crossing road as well, T Traffic"
+    },
+    {
+      "image_id": "2041296",
+      "caption": "No Car approaching crosswalk, Clear Sight to End of Crosswalk, Cyclist crossing road as well, T Traffic"
+    },
+    {
+      "image_id": "2041302",
+      "caption": "No Car approaching crosswalk, Clear Sight to End of Crosswalk, Cyclist crossing road as well, T Traffic"
+    },
+    {
+      "image_id": "2056992",
+      "caption": "Already Walking, No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "2057018",
+      "caption": "No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "2057052",
+      "caption": "Moving Car in Front, no crossing pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "2057106",
+      "caption": "Moving Car in Front, no crossing pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "20613494",
+      "caption": "Moving Car in Front, Blocked view to the end of crosswalk, no crossing pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "20613498",
+      "caption": "Moving Car in Front, Blocked view to the end of crosswalk, no crossing pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "20613502",
+      "caption": "Moving Car in Front, Blocked view to the end of crosswalk, no crossing pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "20614446",
+      "caption": "Moving Car in Front, Blocked view to the end of crosswalk, no crossing pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "30110334",
+      "caption": "No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "30110340",
+      "caption": "No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "30110346",
+      "caption": "No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "30110350",
+      "caption": "No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "3024074",
+      "caption": "Moving Car in Front, Blocked view to the end of crosswalk, no crossing pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "3024104",
+      "caption": "Moving Car in Front, Blocked view to the end of crosswalk, no crossing pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "3024106",
+      "caption": "Moving Car in Front, Blocked view to the end of crosswalk, no crossing pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "3024270",
+      "caption": "Moving Car in Front, Blocked view to the end of crosswalk, no crossing pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "3037780",
+      "caption": "No Pedestrian Signal, no cars on either side, Perpendicular Traffic"
+    },
+    {
+      "image_id": "3037796",
+      "caption": "No Pedestrian Signal, no cars on either side, Perpendicular Traffic"
+    },
+    {
+      "image_id": "3037814",
+      "caption": "No Pedestrian Signal, no cars on either side, Perpendicular Traffic"
+    },
+    {
+      "image_id": "3037924",
+      "caption": "No Pedestrian Signal, no cars on either side, Perpendicular Traffic"
+    },
+    {
+      "image_id": "3041174",
+      "caption": "No Car approaching crosswalk, Clear Sight to End of Crosswalk, Cyclist crossing road as well, T Traffic"
+    },
+    {
+      "image_id": "3041192",
+      "caption": "No Car approaching crosswalk, Clear Sight to End of Crosswalk, Cyclist crossing road as well, T Traffic"
+    },
+    {
+      "image_id": "3041196",
+      "caption": "No Car approaching crosswalk, Clear Sight to End of Crosswalk, Cyclist crossing road as well, T Traffic"
+    },
+    {
+      "image_id": "3041200",
+      "caption": "No Car approaching crosswalk, Clear Sight to End of Crosswalk, Cyclist crossing road as well, T Traffic"
+    },
+    {
+      "image_id": "3041204",
+      "caption": "No Car approaching crosswalk, Clear Sight to End of Crosswalk, Cyclist crossing road as well, T Traffic"
+    },
+    {
+      "image_id": "3041206",
+      "caption": "No Car approaching crosswalk, Clear Sight to End of Crosswalk, Cyclist crossing road as well, T Traffic"
+    },
+    {
+      "image_id": "3041210",
+      "caption": "No Car approaching crosswalk, Clear Sight to End of Crosswalk, Cyclist crossing road as well, T Traffic"
+    },
+    {
+      "image_id": "3041214",
+      "caption": "No Car approaching crosswalk, Clear Sight to End of Crosswalk, Cyclist crossing road as well, T Traffic"
+    },
+    {
+      "image_id": "3058332",
+      "caption": "No Pedestrian Signal, Car approaching slowly on left, No walking Pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "3058350",
+      "caption": "No Pedestrian Signal, Car approaching slowly on left, No walking Pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "3058452",
+      "caption": "No Pedestrian Signal, Car approaching slowly on left, No walking Pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "3058486",
+      "caption": "No Pedestrian Signal, Car approaching slowly on left, No walking Pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "30615710",
+      "caption": "Moving Car in Front, Pedestrian Signal Solid Red, No Crossing Pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "30615924",
+      "caption": "Moving Car in Front, Pedestrian Signal Solid Red, No Crossing Pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "30616054",
+      "caption": "Moving Car in Front, Pedestrian Signal Solid Red, No Crossing Pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "30616400",
+      "caption": "Moving Car in Front, Pedestrian Signal Solid Red, No Crossing Pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "40110542",
+      "caption": "No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "40110544",
+      "caption": "No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "40110558",
+      "caption": "No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "40110564",
+      "caption": "No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "4024144",
+      "caption": "Moving Car in Front, No Pedestrian Signal, No crossing pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "4024278",
+      "caption": "Moving Car in Front, No Pedestrian Signal, No crossing pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "4024360",
+      "caption": "Moving Car in Front, No Pedestrian Signal, No crossing pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "4024368",
+      "caption": "Moving Car in Front, No Pedestrian Signal, No crossing pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "4038140",
+      "caption": "No Pedestrian Signal, no cars on either side, Perpendicular Traffic"
+    },
+    {
+      "image_id": "4038174",
+      "caption": "No Pedestrian Signal, no cars on either side, Perpendicular Traffic"
+    },
+    {
+      "image_id": "4038200",
+      "caption": "No Pedestrian Signal, no cars on either side, Perpendicular Traffic"
+    },
+    {
+      "image_id": "4038212",
+      "caption": "No Pedestrian Signal, no cars on either side, Perpendicular Traffic"
+    },
+    {
+      "image_id": "4041222",
+      "caption": "No Car approaching crosswalk, Clear Sight to End of Crosswalk, Cyclist crossing road as well, T Traffic"
+    },
+    {
+      "image_id": "4041224",
+      "caption": "No Car approaching crosswalk, Clear Sight to End of Crosswalk, Cyclist crossing road as well, T Traffic"
+    },
+    {
+      "image_id": "4041226",
+      "caption": "No Car approaching crosswalk, Clear Sight to End of Crosswalk, Cyclist crossing road as well, T Traffic"
+    },
+    {
+      "image_id": "4041234",
+      "caption": "No Car approaching crosswalk, Clear Sight to End of Crosswalk, Cyclist crossing road as well, T Traffic"
+    },
+    {
+      "image_id": "4041236",
+      "caption": "No Car approaching crosswalk, Clear Sight to End of Crosswalk, Cyclist crossing road as well, T Traffic"
+    },
+    {
+      "image_id": "4041246",
+      "caption": "No Car approaching crosswalk, Clear Sight to End of Crosswalk, Cyclist crossing road as well, T Traffic"
+    },
+    {
+      "image_id": "4041254",
+      "caption": "No Car approaching crosswalk, Clear Sight to End of Crosswalk, Cyclist crossing road as well, T Traffic"
+    },
+    {
+      "image_id": "4057796",
+      "caption": "Moving Car in Front, no crossing pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "4057916",
+      "caption": "Moving Car in Front going away, No crossing pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "4057926",
+      "caption": "Already Walking, No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "4057930",
+      "caption": "Already Walking, No Pedestrian Signal, no cars on either side, no walking pedestrian, Perpendicular Traffic"
+    },
+    {
+      "image_id": "40612616",
+      "caption": "Moving Car in Front, Pedestrian Signal Solid Red, No Crossing Pedestrians, Perpendicular Traffic"
+    },
+    {
+      "image_id": "40617028",
+      "caption": "Pedestrian Signal Go, Cars stopped before Crosswalk, Perpendicular Traffic"
+    },
+    {
+      "image_id": "40617242",
+      "caption": "Pedestrian Signal Hidden, Already Walking on Crosswalk, Perpendicular Traffic"
+    },
+    {
+      "image_id": "40617324",
+      "caption": "Pedestrian Signal Hidden, Already Walking on Crosswalk, Perpendicular Traffic"
+    }
+  ]
+}
