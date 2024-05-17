@@ -1,0 +1,13 @@
+names:
+- Go
+- Stop
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: crosswalk-signal-detection
+  url: https://universe.roboflow.com/crosswalk-signal-detection/crosswalk-signal-detection/dataset/2
+  version: 2
+  workspace: crosswalk-signal-detection
+test: ../test/images
+train: Crosswalk-Signal-Detection-2/train/images
+val: Crosswalk-Signal-Detection-2/valid/images
