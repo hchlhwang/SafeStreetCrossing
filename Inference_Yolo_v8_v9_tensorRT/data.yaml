@@ -1,0 +1,21 @@
+names:
+- Bicycle
+- Bus
+- Crosswalk
+- Pedestrian
+- Pedestrian-sign
+- Stop-Sign
+- Tactile-paving
+- Traffic-light
+- Truck
+- car
+nc: 10
+roboflow:
+  license: CC BY 4.0
+  project: object-detection-navigation
+  url: https://universe.roboflow.com/deepika-udnxx/object-detection-navigation/dataset/2
+  version: 2
+  workspace: deepika-udnxx
+test: test/images
+train: train/images
+val: valid/images
